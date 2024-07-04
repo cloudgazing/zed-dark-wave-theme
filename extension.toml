@@ -1,0 +1,7 @@
+id = "dark-wave"
+name = "Dark Wave Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["cloudgazing"]
+description = "A modern, blurred and minimalist theme."
+repository = "https://github.com/cloudgazing/zed-dark-wave-theme"
