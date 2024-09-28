@@ -1,3 +1,5 @@
+# BROKEN as of v0.154.3
+
 # Dark Wave theme for the Zed Code Editor
 
 The theme is still work in progress and unfinished!
